@@ -1,4 +1,5 @@
-### Hi there 👋
+# [Hi there 👋](https://joshuapaulbarnard.github.io/)
+<!-- ### Hi there 👋 -->
 
 
 - 🔭 I’m currently working on: The Crown Card.
@@ -11,4 +12,4 @@
 - ⚡ Fun fact: I love to travel.
 
 
-<!-- - 🤔 I’m looking for help with Blockchain Development. --!>
+<!-- - 🤔 I’m looking for help with Blockchain Development. -->
