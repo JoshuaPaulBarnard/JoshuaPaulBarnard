@@ -1,4 +1,4 @@
-### Hi there[https://JoshuaPaulBarnard.tech.blog] 👋
+### Hi there 👋
 
 
 - 🔭 I’m currently working on: The Crown Card.
