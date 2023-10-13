@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Joshua Paul Barnard</h1>
 <h3 align="center">Full Stack Developer / Blockchain Developer</h3>
+<!--
 <p align="center">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopglobal&show_icons=true&locale=en" alt="shopglobal" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&show_icons=true&locale=en" alt="JoshuaPaulBarnard" /></p>
 <br>
-
+-->
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/blockchain)
 - 🌱 I’m currently learning **Rust, GO**
 - 👯 I’m looking to collaborate on [Web 3 Social and Gaming Development]()
 - 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
 - 👨‍💻 All of my projects are available at [My Website](https://JoshuaPaulBarnard.com)
-<!-- - 📝 I regularly chat on [Discord](https://discord.gg/FRFExqDwea) 
-- 💬 Ask me about **Blockchain, Bitcoin, Ethereum, Binance Smart Chain, Monero, Electronero, Cryptonote, Trading Bots, API and/or Database construction, C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**  -->
 - 💬 Ask me about:  Life, the Universe, and Everything.
 - ✨ How to keep up with me:  https://JoshuaPaulBarnard.tech.blog
 - 📫 How to reach me: **JoshuaPaulBarnard@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel.
-
+<!-- - 📝 I regularly chat on [Discord](https://discord.gg/FRFExqDwea) 
+- 💬 Ask me about **Blockchain, Bitcoin, Ethereum, Binance Smart Chain, Monero, Electronero, Cryptonote, Trading Bots, API and/or Database construction, C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**  -->
 <!--
 </br>
-<p align="left"><a href="https://github.com/shopglobal"><img src="https://github-profile-trophy.vercel.app/?username=shopglobal&column=3&margin-w=15&margin-h=15" alt="shopglobal" /></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopglobal&show_icons=true&locale=en&layout=compact" alt="shopglobal" /></p>
+<p align="left"><a href="https://github.com/JoshuaPaulBarnard"><img src="https://github-profile-trophy.vercel.app/?username=JoshuaPaulBarnard&column=3&margin-w=15&margin-h=15" alt="JoshuaPaulBarnard" /></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact" alt="JoshuaPaulBarnard" /></p>
 -->
 
 <h3 align="center">Languages and Tools:</h3>
