@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on [Web 3 Social and Gaming Development]()
 - 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
 - 👨‍💻 All of my projects are available at [My Website](https://JoshuaPaulBarnard.com)
-- 💬 Ask me about:  Life, the Universe, and Everything.
 - ✨ How to keep up with me:  https://JoshuaPaulBarnard.tech.blog
 - 📫 How to reach me: **JoshuaPaulBarnard@gmail.com**
+- 💬 Ask me about:  Life, the Universe, and Everything.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel.
 
