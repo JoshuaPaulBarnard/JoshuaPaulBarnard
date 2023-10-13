@@ -11,7 +11,7 @@
 - 📫 How to reach me: **JoshuaPaulBarnard@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to travel.
-- 
+
 <!-- - 📝 I regularly chat on [Discord](https://discord.gg/FRFExqDwea) 
 - 💬 Ask me about **Blockchain, Bitcoin, Ethereum, Binance Smart Chain, Monero, Electronero, Cryptonote, Trading Bots, API and/or Database construction, C++, C#, HTML, CSS, LESS, EJS, Handlebars, Nunjucks, Javascript, NodeJS, PHP, MySql, Redis, Debian, Mac, Windows, Android, iOs**  -->
 <!--
