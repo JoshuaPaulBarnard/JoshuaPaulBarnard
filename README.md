@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Paul Barnard</h1>
+<h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
 <h3 align="center">Full Stack Developer / Blockchain Developer</h3>
 
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/blockchain)
