@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer & Data Analyst</h3>
 
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/blockchain)
 - 🌱 I’m currently learning **Rust**
