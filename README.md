@@ -19,7 +19,7 @@
 <p align="left"><a href="https://github.com/JoshuaPaulBarnard"><img src="https://github-profile-trophy.vercel.app/?username=JoshuaPaulBarnard&column=3&margin-w=15&margin-h=15" alt="JoshuaPaulBarnard" /></a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact" alt="JoshuaPaulBarnard" /></p>
 -->
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages, Tools, and Frameworks:</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
