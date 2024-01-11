@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Data Analyst</h3>
 
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/blockchain)
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
 - 👯 I’m looking to collaborate on [Web 3 Social and Gaming Development]()
 - 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
 - 👨‍💻 All of my projects are available at [My Website](https://JoshuaPaulBarnard.com)
