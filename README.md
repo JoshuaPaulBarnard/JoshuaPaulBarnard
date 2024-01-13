@@ -3,12 +3,19 @@ Discord
 Tableau Public
 Kaggle
 Reddit
-TensorFlow
+NodeJS
 Pandas
+Shiny
+BeautifulSoup
+Tidyverse
 Tableau
 Slack
 Trello
 Premiere Pro
+Excel
+Office 365
+Google Workspace
+RaspberryPi
 -->
 
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
@@ -46,9 +53,9 @@ Premiere Pro
 <h3 align="center">Frameworks:</h3>
 <p align="center"> 
   <a href="https://d3js.org/" target="_blank"> <img src="https://github.com/d3/d3-logo/blob/master/d3.svg" alt="D3js" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
   <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
   <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
