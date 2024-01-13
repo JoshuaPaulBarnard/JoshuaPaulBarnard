@@ -82,7 +82,6 @@ Trello
 <a href="https://twitter.com/JoshuaPaulBarnard" target="blank"><img src="https://img.shields.io/twitter/follow/JoshuaPaulBarnard?logo=twitter&style=for-the-badge" alt="JoshuaPaulBarnard" /></a>
 </br>
 <a href="https://linkedin.com/in/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoshuaPaulBarnard" height="40" width="40" /></a>
-<a href="https://fb.com/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JoshuaPaulBarnard" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/7503304/joshua-paul-barnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="JoshuaPaulBarnard" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Joshua-Barnard-2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="JoshuaPaulBarnard" height="40" width="40" /></a>
 </p>
@@ -101,4 +100,6 @@ maybe use later?:
 
 Go Language:
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+
+<a href="https://fb.com/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JoshuaPaulBarnard" height="40" width="40" /></a>
 -->
