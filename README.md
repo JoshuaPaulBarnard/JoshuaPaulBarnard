@@ -78,10 +78,12 @@
 </br>
 <a href="https://linkedin.com/in/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JoshuaPaulBarnard" height="30" width="40" /></a>
 <a href="https://fb.com/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JoshuaPaulBarnard" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7503304/joshua-paul-barnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="JoshuaPaulBarnard" height="30" width="40" /></a>
+</p>
 
 
 <!-- 
-<a href="https://stackoverflow.com/users/14909949/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="JoshuaPaulBarnard" height="30" width="40" /></a>
+
 <a href="https://t.me/JoshuaPaulBarnard" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="JoshuaPaulBarnard" height="30" width="30" /></a>
 </p>
 -->
@@ -95,33 +97,3 @@ Go Language:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ### Hi there 👋 -->
-<!--
-# [Hi there 👋](https://joshuapaulbarnard.github.io/)
-
-
-
-- 🔭 I’m currently working on: The Crown Card.
-- 🌱 I’m currently learning: Rust.
-- 👯 I’m looking to collaborate on: Blockchain Development.
-- 💬 Ask me about:  Life, the Universe, and Everything.
-- ✨ How to keep up with me:  https://JoshuaPaulBarnard.tech.blog
-- 📫 How to reach me: JoshuaPaulBarnard@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to travel.
--->
-
-<!-- - 🤔 I’m looking for help with Blockchain Development. -->
