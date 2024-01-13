@@ -8,6 +8,7 @@ Pandas
 Tableau
 Slack
 Trello
+Premiere Pro
 -->
 
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
