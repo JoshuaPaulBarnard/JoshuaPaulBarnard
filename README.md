@@ -44,7 +44,7 @@ Trello
 
 <h3 align="center">Frameworks:</h3>
 <p align="center"> 
-  <a href="https://d3js.org/" target="_blank"> <img src="https://github.com/d3/d3-logo/blob/master/d3-black.svg" alt="chartjs" width="40" height="40"/> </a> 
+  <a href="https://d3js.org/" target="_blank"> <img src="https://github.com/d3/d3-logo/blob/master/d3.svg" alt="chartjs" width="40" height="40"/> </a> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
