@@ -12,9 +12,6 @@ Tableau
 Slack
 Trello
 Premiere Pro
-Excel
-Office 365
-Google Workspace
 RaspberryPi
 -->
 
@@ -71,6 +68,9 @@ RaspberryPi
 
 <h3 align="center">Tools:</h3>
 <p align="center"> 
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a> 
+  <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" alt="office365" width="40" height="40"/> </a> 
+  <a href="https://workspace.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlesuite" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
@@ -104,6 +104,9 @@ RaspberryPi
 
 
 <!-- 
+
+<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
+
 maybe use later?:
 
 <a href="https://t.me/JoshuaPaulBarnard" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="JoshuaPaulBarnard" height="30" width="30" /></a>
