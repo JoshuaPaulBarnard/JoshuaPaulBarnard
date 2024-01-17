@@ -80,7 +80,7 @@ SPSS
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://worldvectorlogo.com/download/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/agile-software.svg" alt="agile" width="40" height="40"/> </a> 
   <a href="https://www.wordpress.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a> 
 </p>
@@ -95,7 +95,7 @@ SPSS
 </br>
 <a href="https://linkedin.com/in/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/7503304/joshua-paul-barnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/joshua.paul.barnard/vizzes" target="blank"><img align="center" src="https://worldvectorlogo.com/download/tableau-software.svg" alt="tableaupublic" height="40" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/joshua.paul.barnard/vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableaupublic" height="40" width="40" /></a>
 <a href="https://www.researchgate.net/profile/Joshua-Barnard-2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researechgate" height="40" width="40" /></a>
 </p>
 
