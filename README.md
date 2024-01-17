@@ -81,7 +81,7 @@ SPSS
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://worldvectorlogo.com/download/tableau-software.svg" alt="tableau" width="40" height="40"/> </a> 
-  <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> <img src="https://worldvectorlogo.com/download/agile-software.svg" alt="agile" width="40" height="40"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/agile-software.svg" alt="agile" width="40" height="40"/> </a> 
   <a href="https://www.wordpress.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a> 
 </p>
 </br>
