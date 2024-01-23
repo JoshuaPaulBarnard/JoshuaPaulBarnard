@@ -8,7 +8,6 @@ BeautifulSoup
 Tidyverse
 Zoom
 Premiere Pro
-RaspberryPi
 -->
 
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
@@ -82,7 +81,8 @@ RaspberryPi
   <a href="https://www.slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/slack-logo.svg" alt="slack" width="40" height="40"/> </a>
   <a href="https://www.trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/UbuntuCoF.svg" alt="ubuntu" width="40" height="40"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/UbuntuCoF.svg" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a> 
   <a href="https://www.wordpress.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 </br>
