@@ -1,6 +1,4 @@
 <!-- To add in the future:
-Discord
-Reddit
 NodeJS
 Pandas
 Shiny
@@ -27,9 +25,9 @@ Premiere Pro
 
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -82,7 +80,7 @@ Premiere Pro
   <a href="https://www.trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/UbuntuCoF.svg" alt="ubuntu" width="40" height="40"/> </a>
-  <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a> 
+  <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a>
   <a href="https://www.wordpress.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="wordpress" width="40" height="40"/> </a>
 </p>
 </br>
