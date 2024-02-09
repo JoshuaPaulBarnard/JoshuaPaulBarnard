@@ -54,7 +54,8 @@ Premiere Pro
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://phaser.io/download/phaserce" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-ar21.svg" alt="phaserce" width="40" height="40"/> </a>
+  <a href="https://phaser.io/download/phaserce" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-ar21.svg" alt="phaserce" width="80" height="40"/> </a>
+  <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/NodeJS_logo.svg" alt="nodejs" width="120" height="40"/> </a>
 </p>
 </br>
 
