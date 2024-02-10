@@ -20,19 +20,21 @@ Premiere Pro
 - ⚡ Fun fact: I love to travel.
 
 </br>
-
+<!--
 <p align="center">
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
 </p>
+-->
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
+</div>
 
 </br>
-</br>
-</br>
-</br>
 
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
-  <h3>Programming Languages:</h3>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
