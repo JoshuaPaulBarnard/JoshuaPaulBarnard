@@ -28,8 +28,8 @@ Premiere Pro
 </p>
 
 
-<h3 align="center">Programming Languages:</h3>
 <p align="center">
+  <h3 align="center">Programming Languages:</h3>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
