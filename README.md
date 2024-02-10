@@ -22,6 +22,10 @@ Premiere Pro
 - ⚡ Fun fact: I love to travel.
 
 
+<p align="center">
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" /></p>
+
+
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
@@ -113,6 +117,8 @@ Premiere Pro
 
 maybe use later?:
 
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" /></p>
+
 - 😄 Pronouns: He/Him
 
 <a href="https://t.me/JoshuaPaulBarnard" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="JoshuaPaulBarnard" height="30" width="30" /></a>
@@ -126,7 +132,7 @@ Go Language:
 
 
 
-<!-- Alternate Setup for Icons:
+<!-- Alternate Setup idea for Icons:
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
