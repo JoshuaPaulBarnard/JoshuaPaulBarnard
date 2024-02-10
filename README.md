@@ -27,6 +27,7 @@ Premiere Pro
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
 </p>
 
+</br>
 
 <p align="center">
   <h3 align="center">Programming Languages:</h3>
