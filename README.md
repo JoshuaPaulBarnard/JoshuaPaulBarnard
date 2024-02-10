@@ -21,6 +21,7 @@ Premiere Pro
 - 💬 Ask me about:  Life, the Universe, and Everything.
 - ⚡ Fun fact: I love to travel.
 
+</br>
 
 <p align="center">
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
