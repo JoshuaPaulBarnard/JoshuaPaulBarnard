@@ -24,7 +24,7 @@ Premiere Pro
 
 <p align="center">
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopglobal&show_icons=true&locale=en&layout=compact" alt="shopglobal" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
 </p>
 
 
