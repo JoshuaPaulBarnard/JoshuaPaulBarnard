@@ -1,5 +1,4 @@
 <!-- To add in the future:
-NumPy
 SciPy
 Shiny
 BeautifulSoup
@@ -14,9 +13,8 @@ Premiere Pro
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/blockchain)
 - 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
 - 👯 I’m looking to collaborate on [Web 3 Social and Gaming Development]()
-- 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
-- 👨‍💻 All of my projects are available at [My Website](https://JoshuaPaulBarnard.com)
-- ✨ How to keep up with me at [My Blog](https://JoshuaPaulBarnard.tech.blog)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://JoshuaPaulBarnard.com)
+- ✨ How to keep up with me at [My Personal Blog](https://JoshuaPaulBarnard.tech.blog)
 - 📫 How to reach me: **JoshuaPaulBarnard@gmail.com**
 - 💬 Ask me about:  Life, the Universe, and Everything.
 - ⚡ Fun fact: I love to travel.
@@ -29,9 +27,12 @@ Premiere Pro
 </p>
 
 </br>
+</br>
+</br>
+</br>
 
+<h3 align="center">Programming Languages:</h3>
 <p align="center">
-  <h3 align="center">Programming Languages:</h3>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
@@ -52,6 +53,7 @@ Premiere Pro
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Pandas.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/numpy-logo.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://d3js.org/" target="_blank"> <img src="https://github.com/d3/d3-logo/blob/master/d3.svg" alt="D3js" width="40" height="40"/> </a>
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -115,14 +117,14 @@ Premiere Pro
 
 
 
-<!--
+<!--  Scratch code and maybe to use later:
 
 <a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a>
 
-maybe use later?:
-
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=JoshuaPaulBarnard&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" /></p>
 
+
+- 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
 - 😄 Pronouns: He/Him
 
 <a href="https://t.me/JoshuaPaulBarnard" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="JoshuaPaulBarnard" height="30" width="30" /></a>
