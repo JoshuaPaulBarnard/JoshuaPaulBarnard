@@ -40,7 +40,7 @@ Audition
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
 </div>
 
-</br>
+</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
 <h3 align="center">Programming Languages:</h3>
