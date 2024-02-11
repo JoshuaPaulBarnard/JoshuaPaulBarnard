@@ -34,7 +34,7 @@ Audition
 
 </br>
 
-<div style="display: flex; justify-content: center; text-align: center;">
+<div text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" float="left"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" float="right"/>
