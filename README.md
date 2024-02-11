@@ -35,11 +35,10 @@ Audition
 </br>
 
 <div style="display: flex; justify-content: center; text-align: center;">
-    <div style="display: inline-block;">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
-    </div>
-</div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
+  &nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
+
 
 </br>
 
@@ -59,7 +58,7 @@ Audition
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
-
+</div>
 </br>
 
 <h3 align="center">Frameworks:</h3>
