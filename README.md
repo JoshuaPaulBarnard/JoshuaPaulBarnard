@@ -35,14 +35,15 @@ Audition
 </br>
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
-  &nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
+  <div style="display: flex; flex-direction: column;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
+  </div>
 </div>
 
 </br>
 
-<div>
+
 <h3 align="center">Programming Languages:</h3>
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
@@ -127,7 +128,7 @@ Audition
   <a href="https://www.kaggle.com/joshuapaulbarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>
   <a href="https://www.researchgate.net/profile/Joshua-Barnard-2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researechgate" height="40" width="40" /></a>
 </p>
-</div>
+
 
 
 
