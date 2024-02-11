@@ -114,20 +114,18 @@ Audition
 </br>
 
 <p align="center">
-  <a href="https://www.paypal.me/JoshuaPaulBarnard">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JoshuaPaulBarnard" />
-  </a>
+  <a href="https://www.paypal.me/JoshuaPaulBarnard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JoshuaPaulBarnard" /></a>
 </p>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <h3>Connect with me:</h3>
   <a href="https://twitter.com/JoshuaPBarnard" target="blank"><img src="https://img.shields.io/twitter/follow/JoshuaPBarnard?logo=twitter&style=for-the-badge" alt="twitter" /></a>
   </br>
-  <a href="https://linkedin.com/in/JoshuaPaulBarnard" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://stackoverflow.com/users/7503304/joshua-paul-barnard" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
-  <a href="https://public.tableau.com/app/profile/joshua.paul.barnard/vizzes" target="blank"><img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableaupublic" height="40" width="40" /></a>
-  <a href="https://www.kaggle.com/joshuapaulbarnard" target="blank"><img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>
-  <a href="https://www.researchgate.net/profile/Joshua-Barnard-2" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researechgate" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/7503304/joshua-paul-barnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" /></a>
+  <a href="https://public.tableau.com/app/profile/joshua.paul.barnard/vizzes" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableaupublic" height="40" width="40" /></a>
+  <a href="https://www.kaggle.com/joshuapaulbarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/kaggle-icon.svg" alt="kaggle" height="40" width="40" /></a>
+  <a href="https://www.researchgate.net/profile/Joshua-Barnard-2" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="researechgate" height="40" width="40" /></a>
 </p>
 
 
