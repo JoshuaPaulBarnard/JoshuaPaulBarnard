@@ -35,10 +35,10 @@ Audition
 </br>
 
 <div style="display: flex; justify-content: center; text-align: center;">
-  <div style="display: flex; flex-direction: column;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
-  </div>
+    <div style="display: inline-block;">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard" />
+    </div>
 </div>
 
 </br>
