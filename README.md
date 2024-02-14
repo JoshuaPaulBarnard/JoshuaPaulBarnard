@@ -3,17 +3,16 @@ SciPy
 Shiny
 BeautifulSoup
 Tidyverse
-OpenBUGS
-LaTeX
+OpenBUGS  
 Bootstrap 5
 JQuery
 Vercel
+Replit
 VSCode
 PyCharm
 RStudio
 TexStudio
 Atom
-Replit
 Zoom
 After Effects
 Audition
@@ -42,7 +41,7 @@ Audition
 </br>
 
 
-<h3 align="center">Programming Languages:</h3>
+<h3 align="center">Programming Languages 🔨:</h3>
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
@@ -56,11 +55,10 @@ Audition
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
 </p>
 
-</br>
-
-<h3 align="center">Frameworks:</h3>
+<h3 align="center">Frameworks 💻:</h3>
 <p align="center">
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -82,9 +80,7 @@ Audition
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/NodeJS_logo.svg" alt="nodejs" width="100" height="40"/> </a>
 </p>
 
-</br>
-
-<h3 align="center">Tools:</h3>
+<h3 align="center">Tools 🛠:</h3>
 <p align="center">
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.ibm.com/spss" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/SPSS.svg" alt="spss" width="40" height="40"/> </a>
@@ -114,7 +110,7 @@ Audition
 </br>
 
 <p align="center">
-  <a href="https://www.paypal.me/JoshuaPaulBarnard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JoshuaPaulBarnard" /></a>
+  <a href="https://www.paypal.me/JoshuaPaulBarnard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Donate" /></a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -139,11 +135,15 @@ Audition
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/" alt="" width="40" height="40"/> </a>
 
 
+<h3 align="center">Skills ⭐️:</h3>
+
 ![Joshua Paul Barnard's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight)
 
 
 - 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
 - 😄 Pronouns: He/Him
+
+emojis:  https://scrumoji.org/
 
 <a href="https://t.me/JoshuaPaulBarnard" target="blank"><img align="center" src="https://telegram.org/img/t_logo.png" alt="JoshuaPaulBarnard" height="30" width="30" /></a>
 </p>
