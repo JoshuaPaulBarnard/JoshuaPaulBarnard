@@ -2,7 +2,6 @@
 SciPy
 Shiny
 BeautifulSoup
-Tidyverse
 OpenBUGS  
 Bootstrap 5
 JQuery
@@ -60,7 +59,7 @@ Audition
 
 <h3 align="center">Frameworks 💻:</h3>
 <p align="center">
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://www.tidyverse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tidyverse.svg" alt="Tidyverse" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Pandas.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/numpy-logo.svg" alt="NumPy" width="40" height="40"/> </a>
@@ -82,6 +81,7 @@ Audition
 
 <h3 align="center">Tools 🛠:</h3>
 <p align="center">
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.ibm.com/spss" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/SPSS.svg" alt="spss" width="40" height="40"/> </a>
   <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40"/> </a>
