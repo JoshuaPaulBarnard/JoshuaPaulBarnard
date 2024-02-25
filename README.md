@@ -117,10 +117,6 @@ Kotlin
 
 </br>
 
-<p align="center">
-  <a href="https://www.paypal.me/JoshuaPaulBarnard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Donate" /></a>
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/JoshuaPBarnard" target="blank"><img src="https://img.shields.io/twitter/follow/JoshuaPBarnard?logo=twitter&style=for-the-badge" alt="twitter" /></a>
@@ -150,6 +146,12 @@ Kotlin
 
 - 🤝 I’m looking for help with [Enabling Blockchain with Banking Apps](https://TheCrownCard.com)
 - 😄 Pronouns: He/Him
+
+
+<p align="center">
+  <a href="https://www.paypal.me/JoshuaPaulBarnard"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Donate" /></a>
+</p>
+
 
 emojis:  https://scrumoji.org/
 
