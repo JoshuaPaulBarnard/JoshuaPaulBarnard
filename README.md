@@ -2,8 +2,6 @@
 SciPy
 Shiny
 BeautifulSoup
-OpenBUGS  
-Bootstrap 5
 JQuery
 Replit
 VSCode
@@ -87,6 +85,7 @@ Kotlin
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.ibm.com/spss" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/SPSS.svg" alt="spss" width="40" height="40"/> </a>
+  <a href="https://www.multibugs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/multibugs-logo.svg" alt="OpenBUGS" width="40" height="40"/> </a>
   <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Git.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
