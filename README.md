@@ -1,9 +1,8 @@
 <!-- To add in the future:
 Shiny
 BeautifulSoup
+Scrapy
 JQuery
-Replit
-VSCode
 PyCharm
 RStudio
 TexStudio
@@ -102,6 +101,7 @@ Kotlin
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
