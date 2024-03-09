@@ -118,7 +118,7 @@ Kotlin
 
 </br>
 
-<h3 align="center">Connect with me 💬✨:</h3>
+<h3 align="center">Connect with me 💬:</h3>
 <p align="center">
   <a href="https://twitter.com/JoshuaPBarnard" target="blank"><img src="https://img.shields.io/twitter/follow/JoshuaPBarnard?logo=twitter&style=for-the-badge" alt="twitter" /></a>
   </br>
@@ -139,7 +139,7 @@ Kotlin
 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/" alt="" width="40" height="40"/> </a>
 
-
+✨
 <h3 align="center">Skills ⭐️:</h3>
 
 ![Joshua Paul Barnard's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight)
