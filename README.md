@@ -81,6 +81,7 @@ Kotlin
 <h3 align="center">Tools 🛠:</h3>
 <p align="center">
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.ibm.com/spss" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/SPSS.svg" alt="spss" width="40" height="40"/> </a>
   <a href="https://www.multibugs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/multibugs-logo.svg" alt="OpenBUGS" width="40" height="40"/> </a>
