@@ -2,8 +2,6 @@
 Shiny
 BeautifulSoup
 Scrapy
-PyCharm
-TexStudio
 AndroidStudio
 Atom
 Zoom
@@ -89,9 +87,10 @@ Kotlin
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="40" height="120"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Git.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Scikit_learn_logo_small.svg" alt="SKlearn" width="60" height="40"/> </a>
+  <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
   <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" alt="office365" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://workspace.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlesuite" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AWS-Dark.svg" alt="AWS" width="40" height="40"/> </a>
