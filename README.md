@@ -3,9 +3,7 @@ Shiny
 BeautifulSoup
 Scrapy
 AndroidStudio
-Atom
 Zoom
-Go
 Scala
 Kotlin
 -->
@@ -107,6 +105,7 @@ Kotlin
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://atom-editor.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Atom.svg" alt="Atom" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/agile-software.svg" alt="agile" width="40" height="40"/> </a>
   <a href="https://www.slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/slack-logo.svg" alt="slack" width="40" height="40"/> </a>
   <a href="https://www.trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
