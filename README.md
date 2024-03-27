@@ -76,13 +76,13 @@ Kotlin
 
 <h3 align="center">Tools 🛠:</h3>
 <p align="center">
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.ibm.com/spss" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/SPSS.svg" alt="spss" width="40" height="40"/> </a>
   <a href="https://www.multibugs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/multibugs-logo.svg" alt="OpenBUGS" width="40" height="40"/> </a>
   <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40"/> </a>
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Git.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Scikit_learn_logo_small.svg" alt="SKlearn" width="60" height="40"/> </a>
   <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
