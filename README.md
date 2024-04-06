@@ -2,10 +2,7 @@
 Shiny
 BeautifulSoup
 Scrapy
-AndroidStudio
 Zoom
-Scala
-Kotlin
 -->
 
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
