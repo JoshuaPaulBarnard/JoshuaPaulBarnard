@@ -3,6 +3,16 @@ Shiny
 BeautifulSoup
 Scrapy
 Zoom
+VMWare
+VirtualBox
+RealVNC
+Rustrover
+Operating Systems Section
+Kali Purple
+MacOS
+Windows
+Multimedia Creation Section
+Add sections for:  Data Science, Web Development, etc
 -->
 
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
@@ -46,6 +56,16 @@ Zoom
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
 </p>
 
+<h3 align="center">Integrated Development Environments (IDE) 👨‍💻:</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
+  <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
+  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
+</p>
+
 <h3 align="center">Frameworks 💻:</h3>
 <p align="center">
   <a href="https://www.tidyverse.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tidyverse.svg" alt="Tidyverse" width="40" height="40"/> </a>
@@ -74,17 +94,12 @@ Zoom
 
 <h3 align="center">Tools 🛠:</h3>
 <p align="center">
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
   <a href="https://www.ibm.com/spss" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/SPSS.svg" alt="spss" width="40" height="40"/> </a>
   <a href="https://www.multibugs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/multibugs-logo.svg" alt="OpenBUGS" width="40" height="40"/> </a>
   <a href="https://www.anaconda.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Git.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Scikit_learn_logo_small.svg" alt="SKlearn" width="60" height="40"/> </a>
-  <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
   <a href="https://www.office.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_365_%282022%29.svg" alt="office365" width="40" height="40"/> </a>
   <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a>
@@ -97,7 +112,6 @@ Zoom
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Vercel-Dark.svg" alt="Vercel" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
