@@ -1,25 +1,34 @@
 <!-- To add in the future:
+MATLAB
+Kotlin
+Julia
+Scala
 Shiny
 BeautifulSoup
 Scrapy
 Zoom
-VMWare
-VirtualBox
-RealVNC
-Rustrover
-Operating Systems Section
+Word
+Powerpoint
+Eclipse
+Add sections for:  Data Science & Visualization, Web Development, Multimedia Creation, Operating Systems, Database Administration, Cloud Computing, Professional Tools, etc
 Kali Purple
 MacOS
 Windows
-Multimedia Creation Section
-Add sections for:  Data Science, Web Development, etc
+Handbrake
+Dreamweaver
+Animate
+GIMP
+Access
+VMWare
+VirtualBox
+RealVNC
 -->
 
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
-<h3 align="center">Full Stack Developer & Data Analyst</h3>
+<h3 align="center">Data Scientist & Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/blockchain)
-- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)**
+- 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)** and **[Julia](https://julialang.org/)**
 - 👯 I’m looking to collaborate on [Web 3 Social and Gaming Development]()
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://JoshuaPaulBarnard.com)
 - ✨ How to keep up with me at [My Personal Blog](https://JoshuaPaulBarnard.tech.blog)
@@ -43,27 +52,29 @@ Add sections for:  Data Science, Web Development, etc
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="40" height="40"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Integrated Development Environments (IDE) 👨‍💻:</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/rust/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rustrover.svg" alt="RustRover" width="40" height="40"/> </a>
   <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
   <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
+  <a href="https://atom-editor.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Atom.svg" alt="Atom" width="40" height="40"/> </a>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
 </p>
 
 <h3 align="center">Frameworks 💻:</h3>
@@ -87,7 +98,6 @@ Add sections for:  Data Science, Web Development, etc
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Bootstrap_logo.svg" alt="Bootstrap5" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Bootstrap_logo.svg" alt="Bootstrap5" width="40" height="40"/> </a>
   <a href="https://phaser.io/download/phaserce" target="_blank"> <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-ar21.svg" alt="phaserce" width="60" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/NodeJS_logo.svg" alt="nodejs" width="100" height="40"/> </a>
 </p>
@@ -117,7 +127,6 @@ Add sections for:  Data Science, Web Development, etc
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://atom-editor.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Atom.svg" alt="Atom" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/agile-software.svg" alt="agile" width="40" height="40"/> </a>
   <a href="https://www.slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/slack-logo.svg" alt="slack" width="40" height="40"/> </a>
   <a href="https://www.trello.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/trello-icon.svg" alt="trello" width="40" height="40"/> </a>
