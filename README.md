@@ -11,7 +11,7 @@ Word
 Powerpoint
 Eclipse
 Dreamweaver
-Add sections for:  Multimedia Creation, Operating Systems, Cloud & Remote Computing, Prompt Engineering, Database Administration, etc
+Add sections for:  Operating Systems, Cloud & Remote Computing, Prompt Engineering, Database Administration, etc
 Kali Purple
 MacOS
 Windows
@@ -122,12 +122,14 @@ Grammerly
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/NodeJS_logo.svg" alt="nodejs" width="100" height="40"/> </a>
 </p>
 
-<!--
 <h3 align="center">Multimedia Creation 🎨:</h3>
 <p align="center">
-
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Premiere_Pro_CC_icon.svg" alt="PremierePro" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
 </p>
--->
 
 <h3 align="center">Development Tools 💻:</h3>
 <p align="center">
@@ -148,11 +150,6 @@ Grammerly
   <a href="https://workspace.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlesuite" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AWS-Dark.svg" alt="AWS" width="40" height="40"/> </a>
   <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Cloudflare-Dark.svg" alt="CloudFlare" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Premiere_Pro_CC_icon.svg" alt="PremierePro" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/agile-software.svg" alt="agile" width="40" height="40"/> </a>
   <a href="https://www.slack.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/slack-logo.svg" alt="slack" width="40" height="40"/> </a>
