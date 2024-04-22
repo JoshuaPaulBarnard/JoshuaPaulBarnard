@@ -131,6 +131,13 @@ Grammerly
   <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
 </p>
 
+<h3 align="center">Operating Systems 💾:</h3>
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/UbuntuCoF.svg" alt="ubuntu" width="40" height="40"/> </a>
+  <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a>
+</p>
+
 <h3 align="center">Development Tools 💻:</h3>
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
