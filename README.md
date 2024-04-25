@@ -141,6 +141,7 @@ Grammerly
 
 <h3 align="center">Operating Systems 💾:</h3>
 <p align="center">
+  <a href="https://www.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Windows_logo_-_2012.svg" alt="Windows" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/UbuntuCoF.svg" alt="ubuntu" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="40" height="40"/> </a>
