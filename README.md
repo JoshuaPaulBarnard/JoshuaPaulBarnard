@@ -1,5 +1,4 @@
 <!-- To add in the future:
-MATLAB
 Julia
 Kotlin
 Scala
@@ -12,7 +11,6 @@ Powerpoint
 Eclipse
 Dreamweaver
 Add sections for:  Prompt Engineering, Database Administration, etc
-Kali Purple
 Handbrake
 Animate
 GIMP
@@ -60,6 +58,7 @@ Grammerly
 <p align="center">
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/matlab-svgrepo-com.svg" alt="MATLAB" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/sql-database-generic.90b41636a8.svg" alt="SQL" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
