@@ -12,7 +12,6 @@ Eclipse
 Dreamweaver
 Add sections for:  Prompt Engineering, Database Administration, etc
 Handbrake
-Animate
 GIMP
 Access
 DBeaver
@@ -134,6 +133,7 @@ Grammerly
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Premiere_Pro_CC_icon.svg" alt="PremierePro" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/animate.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Animate_CC_icon_(2020).svg" alt="Animate" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Operating Systems 💾:</h3>
