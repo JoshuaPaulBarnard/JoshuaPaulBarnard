@@ -9,7 +9,6 @@ Zoom
 Word
 Powerpoint
 Eclipse
-Dreamweaver
 Add sections for:  Prompt Engineering, Database Administration, etc
 Handbrake
 GIMP
@@ -80,6 +79,7 @@ Grammerly
   <a href="https://www.jetbrains.com/rust/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rustrover.svg" alt="RustRover" width="40" height="40"/> </a>
   <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
   <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Dreamweaver_CC_icon.svg" alt="Dreamweaver" width="40" height="40"/> </a>
   <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
   <a href="https://atom-editor.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Atom.svg" alt="Atom" width="40" height="40"/> </a>
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
