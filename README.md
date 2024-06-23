@@ -29,8 +29,18 @@ Leonardi.ai
 Grammerly
 -->
 
+<!--
 <h1 align="center">👋Hi, I'm Joshua Paul Barnard</h1>
 <h3 align="center">Data Scientist & Full Stack Developer</h3>
+-->
+
+<h3 align="center">
+ 👋 Hello and welcome to my profile.
+</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Am%20Joshua%20Paul%20Barnard;A%20Data%20Scientist,;And%20Full-stack%20Web%20Developer,;with%203%2B%20years%20of%20coding%20experience;A%20Life%20Long%20Student,;Always%20Learning%20New%20Things.&font=Fira%20Code&center=true&width=500&height=45&color=c71585&vCenter=true&size=22&pause=1000"></a>
+</p>
 
 - 🔭 I’m currently working on [The Crown Card](https://TheCrownCard.com/)
 - 🌱 I’m currently learning **[Rust](https://www.rust-lang.org/)** and **[Julia](https://julialang.org/)**
@@ -42,48 +52,18 @@ Grammerly
 - ⚡ Fun fact: I love to travel.
 
 </br>
-
+<!--
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=JoshuaPaulBarnard&count_private=true&show_icons=true&locale=en&theme=tokyonight" alt="JoshuaPaulBarnard"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoshuaPaulBarnard&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="JoshuaPaulBarnard"/>
 </div>
+-->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaPaulBarnard)](https://git.io/streak-stats)
 
 </br>
 
-
-<h3 align="center">Programming Languages 🔨:</h3>
-<p align="center">
-  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/matlab-svgrepo-com.svg" alt="MATLAB" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/sql-database-generic.90b41636a8.svg" alt="SQL" width="40" height="40"/> </a>
-  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a>
-</p>
-
-<h3 align="center">Integrated Development Environments (IDE) 👨‍💻:</h3>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
-  <a href="https://www.jetbrains.com/rust/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rustrover.svg" alt="RustRover" width="40" height="40"/> </a>
-  <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
-  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Dreamweaver_CC_icon.svg" alt="Dreamweaver" width="40" height="40"/> </a>
-  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
-  <a href="https://atom-editor.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Atom.svg" alt="Atom" width="40" height="40"/> </a>
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
-</p>
 
 <h3 align="center">Data Science & Visualization 📊:</h3>
 <p align="center">
@@ -116,6 +96,39 @@ Grammerly
   <a href="https://babeljs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Babel.svg" alt="Babel" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/NodeJS_logo.svg" alt="nodejs" width="100" height="40"/> </a>
+</p>
+
+<h3 align="center">Programming Languages 🔨:</h3>
+<p align="center">
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Rlogo.svg" alt="R" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/matlab-svgrepo-com.svg" alt="MATLAB" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/sql-database-generic.90b41636a8.svg" alt="SQL" width="40" height="40"/> </a>
+  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/LaTeX-Dark.svg" alt="LaTeX" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rust-logo.svg" alt="rust" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://offeescript.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> </a>
+</p>
+
+<h3 align="center">Integrated Development Environments (IDE) 👨‍💻:</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/VisualStudio-Dark.svg" alt="VSCode" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/PyCharm_Icon.svg" alt="PyCharm" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/rust/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/rustrover.svg" alt="RustRover" width="40" height="40"/> </a>
+  <a href="https://www.texstudio.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/TeXstudio_Logo.svg" alt="TeXStudio" width="40" height="40"/> </a>
+  <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Dreamweaver_CC_icon.svg" alt="Dreamweaver" width="40" height="40"/> </a>
+  <a href="https://replit.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/New_Replit_Logo.svg" alt="Replit" width="40" height="40"/> </a>
+  <a href="https://atom-editor.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Atom.svg" alt="Atom" width="40" height="40"/> </a>
+  <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
 </p>
 
 <h3 align="center">Cloud & Remote Computing 🛰️:</h3>
@@ -216,6 +229,15 @@ Go Language:
 <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 
 <a href="https://fb.com/JoshuaPaulBarnard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="JoshuaPaulBarnard" height="40" width="40" /></a>
+-->
+
+
+
+<!--  Inspirations for readme
+
+https://github.com/threej-in
+
+
 -->
 
 
