@@ -62,9 +62,9 @@ Grammerly
 </div>
 -->
 
-<h3 align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaPaulBarnard)](https://git.io/streak-stats)
-</h3>
+
 
 </br>
 
