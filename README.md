@@ -39,7 +39,7 @@ Grammerly
 </h3>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20Am%20Joshua%20Paul%20Barnard;A%20Data%20Scientist,;And%20Full-stack%20Web%20Developer,;with%203%2B%20years%20of%20coding%20experience;A%20Life%20Long%20Student,;Always%20Learning%20New%20Things.&font=Fira%20Code&center=true&width=500&height=45&color=c71585&vCenter=true&size=22&pause=1000">
   </a>
 </p>
@@ -62,10 +62,11 @@ Grammerly
 </div>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaPaulBarnard)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaPaulBarnard)](https://git.io/streak-stats)
+</p>
 
 </br>
-
 
 <h3 align="center">Data Science & Visualization 📊:</h3>
 <p align="center">
