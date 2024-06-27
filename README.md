@@ -13,7 +13,6 @@ Add sections for:  Prompt Engineering, Database Administration, etc
 Handbrake
 GIMP
 Access
-DBeaver
 Outline
 VMWare
 VirtualBox
@@ -71,7 +70,7 @@ Grammerly
 
 </br>
 
-<h3 align="center">Data Science & Visualization 📊:</h3>
+<h3 align="center">Data Science, Analytics & Visualization 📊:</h3>
 <p align="center">
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Pandas.svg" alt="Pandas" width="40" height="40"/> </a>
@@ -137,14 +136,6 @@ Grammerly
   <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/RStudio-Logo.svg" alt="RStudio" width="120" height="40"/> </a>
 </p>
 
-<h3 align="center">Cloud & Remote Computing 🛰️:</h3>
-<p align="center">
-  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://workspace.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlesuite" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AWS-Dark.svg" alt="AWS" width="40" height="40"/> </a>
-  <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Cloudflare-Dark.svg" alt="CloudFlare" width="40" height="40"/> </a>
-</p>
-
 <h3 align="center">Multimedia Creation 🎨:</h3>
 <p align="center">
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/> </a>
@@ -153,6 +144,14 @@ Grammerly
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AfterEffects.svg" alt="AfterEffects" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/audition.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/adobe-audition.svg" alt="Audition" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/animate.html" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Adobe_Animate_CC_icon_(2020).svg" alt="Animate" width="40" height="40"/> </a>
+</p>
+
+<h3 align="center">Cloud & Remote Computing 🛰️:</h3>
+<p align="center">
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://workspace.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlesuite" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/AWS-Dark.svg" alt="AWS" width="40" height="40"/> </a>
+  <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Cloudflare-Dark.svg" alt="CloudFlare" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Operating Systems 💾:</h3>
