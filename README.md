@@ -172,6 +172,7 @@ Grammerly
 <p align="center">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/Git.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://www.virtualbox.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JoshuaPaulBarnard/JoshuaPaulBarnard/main/Asseets/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/> </a>
 </p>
 
 <h3 align="center">Professional Tools 🛠:</h3>
