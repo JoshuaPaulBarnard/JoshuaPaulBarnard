@@ -48,7 +48,7 @@ Grammerly
 - 👯 I’m looking to collaborate on [Web 3 Social and Gaming Development]()
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://JoshuaPaulBarnard.com)
 - ✨ How to keep up with me at [My Personal Blog](https://JoshuaPaulBarnard.tech.blog)
-- 📫 How to reach me: **JoshuaPaulBarnard@gmail.com**
+- 📫 How to reach me: **Josh@TheDataPioneer.com**
 - 💬 Ask me about:  Life, the Universe, and Everything.
 - ⚡ Fun fact: I love to travel.
 
